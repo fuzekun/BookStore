@@ -2,6 +2,10 @@
 书城项目
 
 
+具体讲解请看博客
+
+https://blog.csdn.net/fuzekun/article/details/95921206
+
 
 一.开发环境介绍
 1.IDEA 2017 
